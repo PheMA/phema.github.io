@@ -1,6 +1,11 @@
 ## Welcome to PhEMA Project Pages
 
-This site contains information about the [Phenotype Execution Modeling Architecture (PhEMA) project](https://phema.github.io/)
+This site contains information about the [Phenotype Execution Modeling Architecture (PhEMA) project.](https://phema.github.io/)
+
+
+### Software
+
+[PhEMA Project source code on GitHub](https://github.com/PheMA)
 
 ![PhEMA Architecture](https://github.com/PheMA/phema.github.io/raw/main/502px-PhEMA-Arch1.png "PhEMA Architecture")
 
