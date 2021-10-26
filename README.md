@@ -25,14 +25,14 @@ This site contains information about the [Phenotype Execution Modeling Architect
 |[Toward cross‐platform electronic health record‐driven phenotyping using Clinical Quality Language](https://onlinelibrary.wiley.com/doi/10.1002/lrh2.10233)|Publication|Learning Health Systems, 2020|
 |[Feasibility of Cross-Platform EHR-Driven Phenotyping Using Clinical Quality Language](https://knowledge.amia.org/72332-amia-1.4602255/t004-1.4605866/t004-1.4605867/3410998-1.4606171/3410998-1.4606172?qr=1)|Podium Presentation|AMIA 2020|
 |[Identification of Alzheimer's Disease Subtypes from Electronic Health Records Using a Data-Driven Approach](https://knowledge.amia.org/72332-amia-1.4602255/t004-1.4605866/t004-1.4605867/3412798-1.4605880/3412798-1.4605881?qr=1)|Podium Presentation|AMIA 2020|
-|Developing a FHIR-based EHR phenotyping framework: A case study for identification of patients with obesity and multiple comorbidities from discharge summaries|Publication|Journal of Biomedical Informatics, 2019|
-|Developing a portable natural language processing based phenotyping system|Publication|BMC medical informatics and decision making, 19, Article number: 78 (2019)|
-|Identifying Sub-Phenotypes of Acute Kidney Injury using Structured and Unstructured Electronic Health Record Data with Memory Networks|Publication|arXiv preprint arXiv:1904.04990|
-|Predictive Modeling of the Risk of Acute Kidney Injury in Critical Care: A Systematic Investigation of The Class Imbalance Problem|Publication|AMIA Jt Summits Transl Sci Proc. 2019 May 6;2019:809-818|
-|Stratified Mortality Prediction of Patients with Acute Kidney Injury in Critical Care|Paper/Presentation|MEDINFO 2019: the 17th World Congress of Medical and Health Informatics|
-|Predictive Modeling of the Risk of Acute Kidney Injury in Critical Care: A Systematic Investigation of The Class Imbalance Problem|Paper|AMIA Summits on Translational Science Proceedings, 2019|
-|Considerations for Improving the Portability of Electronic Health Record-Based Phenotype Algorithms|Paper|AMIA 2019|
-|Evaluating the Portability of an NLP System for Processing Echocardiograms: A Retrospective, Multi-site Observational Study|Paper|AMIA 2019|
+|[Developing a FHIR-based EHR phenotyping framework: A case study for identification of patients with obesity and multiple comorbidities from discharge summaries](https://pubmed.ncbi.nlm.nih.gov/31622801/)|Publication|Journal of Biomedical Informatics, 2019|
+|[Developing a portable natural language processing based phenotyping system](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0786-z)|Publication|BMC medical informatics and decision making, 19, Article number: 78 (2019)|
+|[Identifying Sub-Phenotypes of Acute Kidney Injury using Structured and Unstructured Electronic Health Record Data with Memory Networks](https://arxiv.org/abs/1904.04990)|Publication|arXiv preprint arXiv:1904.04990|
+|[Predictive Modeling of the Risk of Acute Kidney Injury in Critical Care: A Systematic Investigation of The Class Imbalance Problem](https://pubmed.ncbi.nlm.nih.gov/31259038/)|Publication|AMIA Jt Summits Transl Sci Proc. 2019 May 6;2019:809-818|
+|[Stratified Mortality Prediction of Patients with Acute Kidney Injury in Critical Care](https://pubmed.ncbi.nlm.nih.gov/31437966/)|Paper/Presentation|MEDINFO 2019: the 17th World Congress of Medical and Health Informatics|
+|[Predictive Modeling of the Risk of Acute Kidney Injury in Critical Care: A Systematic Investigation of The Class Imbalance Problem](https://pubmed.ncbi.nlm.nih.gov/31259038/)|Paper|AMIA Summits on Translational Science Proceedings, 2019|
+|[Considerations for Improving the Portability of Electronic Health Record-Based Phenotype Algorithms](https://pubmed.ncbi.nlm.nih.gov/32308871/)|Paper|AMIA 2019|
+|[Evaluating the Portability of an NLP System for Processing Echocardiograms: A Retrospective, Multi-site Observational Study](https://pubmed.ncbi.nlm.nih.gov/32308812/)|Paper|AMIA 2019|
 |Enhanced Execution of Standards-Based EHR Phenotype Algorithms.|Poster|AMIA Informatics Summit 2019|
 |Manuscript A case study evaluating the portability of an executable computable phenotype algorithm across multiple institutions and EHR environments. PhEMA representation of BPH case algorithm)|Publication|JAMIA|
 |Portable Phenotyping System: A Portable Machine-Learning Approach to i2b2 Obesity Challenge|Publication|2018 IEEE International Conference on Healthcare Informatics Workshop (ICHI-W)|
