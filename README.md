@@ -1,5 +1,7 @@
 ## Welcome to PhEMA Project Pages
 
+This site contains information about the [Phenotype Execution Modeling Architecture (PhEMA) project](https://phema.github.io/)
+
 ![PhEMA Architecture](https://github.com/PheMA/phema.github.io/raw/main/502px-PhEMA-Arch1.png "PhEMA Architecture")
 
 
@@ -8,8 +10,8 @@
 
 |Title|Type|Location|
 |---|---|---|
-|CQL4NLP: Development and Integration of FHIR NLP Extensions in Clinical Quality Language for EHR-driven Phenotyping|Paper accepted|AMIA Informatic Summits, 2021|
-|Integration of NLP2FHIR Representation with Deep Learning Models for EHR Phenotyping: A Pilot Study on Obesity Datasets|Paper accepted|AMIA Informatic Summits, 2021|
+|CQL4NLP: Development and Integration of FHIR NLP Extensions in Clinical Quality Language for EHR-driven Phenotyping|Publication|AMIA Informatic Summits, 2021|
+|Integration of NLP2FHIR Representation with Deep Learning Models for EHR Phenotyping: A Pilot Study on Obesity Datasets|Publication|AMIA Informatic Summits, 2021|
 |Identifying Sub-Phenotypes of Acute Kidney Injury using Structured and Unstructured Electronic Health Record Data with Memory Networks|Publication|Journal of Biomedical Informatics, 2020|
 |Considerations for Improving the Portability of Electronic Health Record-Based Phenotype Algorithms|Publication|AMIA Annu Symp Proc. 2020 Mar 4;2019:755-764|
 |PhEMA –The Phenotype Execution and Modeling Architecture|Technical Demonstration|Mobilizing Computable Biomedical Knowledge Annual Meeting, 2019|
