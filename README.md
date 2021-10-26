@@ -15,16 +15,16 @@ This site contains information about the [Phenotype Execution Modeling Architect
 
 |Title|Type|Location|
 |---|---|---|
-|CQL4NLP: Development and Integration of FHIR NLP Extensions in Clinical Quality Language for EHR-driven Phenotyping|Publication|AMIA Informatic Summits, 2021|
-|Integration of NLP2FHIR Representation with Deep Learning Models for EHR Phenotyping: A Pilot Study on Obesity Datasets|Publication|AMIA Informatic Summits, 2021|
-|Identifying Sub-Phenotypes of Acute Kidney Injury using Structured and Unstructured Electronic Health Record Data with Memory Networks|Publication|Journal of Biomedical Informatics, 2020|
-|Considerations for Improving the Portability of Electronic Health Record-Based Phenotype Algorithms|Publication|AMIA Annu Symp Proc. 2020 Mar 4;2019:755-764|
-|PhEMA –The Phenotype Execution and Modeling Architecture|Technical Demonstration|Mobilizing Computable Biomedical Knowledge Annual Meeting, 2019|
-|Subphenotyping Depression using Machine Learning and Electronic Health Records|Publication|Learning Health Systems, 2020|
-|Data‐driven discovery of probable Alzheimer's disease and related dementia subphenotypes using electronic health records|Publication|Learning Health Systems, 2020|
-|Toward cross‐platform electronic health record‐driven phenotyping using Clinical Quality Language|Publication|Learning Health Systems, 2020|
-|Feasibility of Cross-Platform EHR-Driven Phenotyping Using Clinical Quality Language|Podium Presentation|AMIA 2020|
-|Identification of Alzheimer's Disease Subtypes from Electronic Health Records Using a Data-Driven Approach|Podium Presentation|AMIA 2020|
+|[CQL4NLP: Development and Integration of FHIR NLP Extensions in Clinical Quality Language for EHR-driven Phenotyping](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8378647/)|Publication|AMIA Informatic Summits, 2021|
+|[Integration of NLP2FHIR Representation with Deep Learning Models for EHR Phenotyping: A Pilot Study on Obesity Datasets](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8378603/)|Publication|AMIA Informatic Summits, 2021|
+|[Identifying Sub-Phenotypes of Acute Kidney Injury using Structured and Unstructured Electronic Health Record Data with Memory Networks](https://pubmed.ncbi.nlm.nih.gov/31911172/)|Publication|Journal of Biomedical Informatics, 2020|
+|[Considerations for Improving the Portability of Electronic Health Record-Based Phenotype Algorithms](https://pubmed.ncbi.nlm.nih.gov/32308871/)|Publication|AMIA Annu Symp Proc. 2020 Mar 4;2019:755-764|
+|[PhEMA –The Phenotype Execution and Modeling Architecture](https://medicine.umich.edu/sites/default/files/content/downloads/PhEMA-BPH-MCBK2019.pdf[)|Technical Demonstration|Mobilizing Computable Biomedical Knowledge Annual Meeting, 2019|
+|[Subphenotyping Depression using Machine Learning and Electronic Health Records](https://onlinelibrary.wiley.com/doi/full/10.1002/lrh2.10241)|Publication|Learning Health Systems, 2020|
+|[Data‐driven discovery of probable Alzheimer's disease and related dementia subphenotypes using electronic health records](https://onlinelibrary.wiley.com/doi/full/10.1002/lrh2.10246)|Publication|Learning Health Systems, 2020|
+|[Toward cross‐platform electronic health record‐driven phenotyping using Clinical Quality Language](https://onlinelibrary.wiley.com/doi/10.1002/lrh2.10233)|Publication|Learning Health Systems, 2020|
+|[Feasibility of Cross-Platform EHR-Driven Phenotyping Using Clinical Quality Language](https://knowledge.amia.org/72332-amia-1.4602255/t004-1.4605866/t004-1.4605867/3410998-1.4606171/3410998-1.4606172?qr=1)|Podium Presentation|AMIA 2020|
+|[Identification of Alzheimer's Disease Subtypes from Electronic Health Records Using a Data-Driven Approach](https://knowledge.amia.org/72332-amia-1.4602255/t004-1.4605866/t004-1.4605867/3412798-1.4605880/3412798-1.4605881?qr=1)|Podium Presentation|AMIA 2020|
 |Developing a FHIR-based EHR phenotyping framework: A case study for identification of patients with obesity and multiple comorbidities from discharge summaries|Publication|Journal of Biomedical Informatics, 2019|
 |Developing a portable natural language processing based phenotyping system|Publication|BMC medical informatics and decision making, 19, Article number: 78 (2019)|
 |Identifying Sub-Phenotypes of Acute Kidney Injury using Structured and Unstructured Electronic Health Record Data with Memory Networks|Publication|arXiv preprint arXiv:1904.04990|
