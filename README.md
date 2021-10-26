@@ -2,6 +2,8 @@
 
 This site contains information about the [Phenotype Execution Modeling Architecture (PhEMA) project.](https://phema.github.io/)
 
+See more informaiton about the PhEMA project at the [project wiki.](https://github.com/PheMA/phema.github.io/wiki)
+
 
 ### Software
 
