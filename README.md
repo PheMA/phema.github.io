@@ -1,6 +1,5 @@
 ## Welcome to PhEMA Project Pages
 
-PhEMA Architecture
 ![PhEMA Architecture](https://github.com/PheMA/phema.github.io/raw/main/502px-PhEMA-Arch1.png "PhEMA Architecture")
 
 
