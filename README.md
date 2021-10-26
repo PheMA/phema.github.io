@@ -1,6 +1,7 @@
 ## Welcome to PhEMA Project Pages
 
-![alt text](https://github.com/PheMA/phema.github.io/blob/main/502px-PhEMA-Arch1.png "PhEMA Architecture")
+PhEMA Architecture
+![PhEMA Architecture](https://github.com/PheMA/phema.github.io/raw/main/502px-PhEMA-Arch1.png "PhEMA Architecture")
 
 
 
